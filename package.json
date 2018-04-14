@@ -1,0 +1,21 @@
+{
+  "name": "react-basics",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leriksen/react-basics.git"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "leif.eriksen.au@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leriksen/react-basics/issues"
+  },
+  "homepage": "https://github.com/leriksen/react-basics#readme"
+}
